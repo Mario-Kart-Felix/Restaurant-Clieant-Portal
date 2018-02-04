@@ -8,6 +8,7 @@ import cs.qa.handler.ReviewAnalyzer;
 import cs.qa.model.AnalyzedReview;
 import cs.qa.model.Review;
 
+
 public class Main {
 	
 	public static void main(String[] args){
